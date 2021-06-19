@@ -1,0 +1,5 @@
+SECRET_KEY=9z+ga1n#9nm1s_d*f_&*!j9p&ry!p-291)=)21@k03j1ebppg8
+DB_NAME=ocpizza
+DB_USER=ocpizza
+DB_PASSWORD=votrepassword
+SENTRY_DSN=https://b452c587ygt54red8529433b4@o570822.ingest.sentry.io/5718144
